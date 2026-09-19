@@ -1,7 +1,7 @@
 # Hi, I'm Mojammal Hossen 👋
 
-📊 Excel & Power BI Data Analyst
-📍 Riyadh, Saudi Arabia
+📊 Excel & Power BI Data Analytics Enthusiast 
+Riyadh, Saudi Arabia
 
 I am passionate about transforming raw data into meaningful business insights using Excel, Power BI, Power Query, and DAX.
 
