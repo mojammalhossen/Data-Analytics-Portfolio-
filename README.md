@@ -27,20 +27,20 @@ Although my current job is outside the data field, I have developed my analytics
   Dynamic Dashboards, Interactive Charts, and Conditional Formatting.
 
 ### 📉 Power BI
-***ETL & Connectivity:** 
+* **ETL & Connectivity:** 
   Data Connectivity and Transformation using `Power Query`.
 
-***Data Modeling:** 
-  Relationship Management and Advanced Data Architecture.
+* **Data Modeling:** 
+  `Relationship Management` and Advanced Data Architecture.
 
-***Analytical Calculations:** 
+* **Analytical Calculations:** 
   Writing complex queries with `DAX` (Data Analysis Expressions).
 
-***Dashboard Design:** 
-  Creating Interactive Dashboards and Professional Reports.
+* **Dashboard Design:** 
+  Creating `Interactive Dashboards` and Professional Reports.
 
-***Deployment:** 
-  Report Publishing Cloud Sharing and Team Collaboration.
+* **Deployment:** 
+  Report Publishing, Cloud Sharing, and
 
 ## Projects
 
