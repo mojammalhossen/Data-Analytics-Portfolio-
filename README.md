@@ -8,29 +8,39 @@ I am passionate about transforming raw data into meaningful business insights us
 
 Although my current job is outside the data field, I have developed my analytics skills through self-learning and practical projects.
 
-## Skills
+## 🛠️ Technical Skills
 
-### Excel
-- Data Cleaning
-- Pivot Tables
-- Pivot Charts
-- XLOOKUP
-- INDEX-MATCH
-- IF, AND, OR Functions
-- Dashboard Creation
+### 📊 Microsoft Excel
+* **Advanced Functions:** 
+  `XLOOKUP` | `INDEX MATCH` | `VLOOKUP`
 
-### Power BI
-- Power Query
-- Data Modeling
-- Relationships
-- DAX Measures
-- CALCULATE
-- SUMX
-- FILTER
-- ALL
-- RELATED
-- Time Intelligence
-- Interactive Dashboards
+* **Data Management:** 
+  Advanced Lookup, Reference Functions, Data Cleaning, and Transformation.
+
+* **Analysis & Summarization:** 
+  `Pivot Tables` and `Pivot Charts` for deep data insights.
+
+* **Logical & Text Operations:** 
+  `IF`, `IFS`, `AND`, `OR`, `LEFT`, `RIGHT`, `MID`, and `TEXT`.
+
+* **Visualization:** 
+  Dynamic Dashboards, Interactive Charts, and Conditional Formatting.
+
+### 📉 Power BI
+**ETL & Connectivity:** 
+  Data Connectivity and Transformation using `Power Query`.
+
+**Data Modeling:** 
+  Relationship Management and Advanced Data Architecture.
+
+**Analytical Calculations:** 
+  Writing complex queries with `DAX` (Data Analysis Expressions).
+
+**Dashboard Design:** 
+  Creating Interactive Dashboards and Professional Reports.
+
+**Deployment:** 
+  Report Publishing Cloud Sharing and Team Collaboration.
 
 ## Projects
 
