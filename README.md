@@ -12,36 +12,36 @@ Although my current job is outside the data field, I have developed my analytics
 
 ### 📊 Microsoft Excel
 * **Advanced Functions:** 
-  `XLOOKUP` | `INDEX MATCH` | `VLOOKUP`
+  XLOOKUP | INDEX MATCH | VLOOKUP
 
 * **Data Management:** 
   Advanced Lookup, Reference Functions, Data Cleaning, and Transformation.
 
 * **Analysis & Summarization:** 
-  `Pivot Tables` and `Pivot Charts` for deep data insights.
+  Pivot Tables and Pivot Charts for deep data insights.
 
 * **Logical & Text Operations:** 
-  `IF`, `IFS`, `AND`, `OR`, `LEFT`, `RIGHT`, `MID`, and `TEXT`.
+  IF, IFS, AND, OR, LEFT, RIGHT, MID, and TEXT.
 
 * **Visualization:** 
   Dynamic Dashboards, Interactive Charts, and Conditional Formatting.
 
 ### 📉 Power BI
 * **ETL & Connectivity:** 
-  Data Connectivity and Transformation using `Power Query`.
+  Data Connectivity and Transformation using Power Query.
 
 * **Data Modeling:** 
-  `Relationship Management` and Advanced Data Architecture.
+  Relationship Management and Advanced Data Architecture.
 
 * **Analytical Calculations:** 
-  Writing complex queries with `DAX` (Data Analysis Expressions).
+  Writing complex queries with DAX (Data Analysis Expressions).
 
 * **Dashboard Design:** 
-  Creating `Interactive Dashboards` and Professional Reports.
+  Creating Interactive Dashboards and Professional Reports.
 
 * **Deployment:** 
-  Report Publishing, Cloud Sharing, and
-
+  Report Publishing, Cloud Sharing, and Team
+  
 ## Projects
 
 ### Amazon Sales Analysis (Excel)
